@@ -1,6 +1,6 @@
 # Seattle Airbnb - Data Viz
 
-** [Tableau Public Link](https://public.tableau.com/views/AirBnbinSeattle-DataVizProject/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) **
+**[Tableau Public Project Link](https://public.tableau.com/views/AirBnbinSeattle-DataVizProject/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 # About Project
 - Airbnb dataset for the city of Seattle
